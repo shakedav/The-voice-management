@@ -1,0 +1,38 @@
+.team-title {
+  margin-left: 5px;
+  text-align: center;
+}
+
+.team-box{
+  float: left;
+}
+/*.team-box{
+  display: flex;
+  flex-direction: column;
+  width:350px;
+  height:200px;
+}*/
+
+.microphone-image {
+  width: 180px;
+}
+
+.microphone-image-container {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.leftandright {
+
+  border: solid 1px #555;
+  background-color: #eed;
+  box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  -moz-box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  -webkit-box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+  -o-box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+}
+
+.mentor-team {
+  margin-left: 50px;
+  margin-bottom: 120px;
+}

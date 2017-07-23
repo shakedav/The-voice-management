@@ -1,0 +1,76 @@
+
+
+.left-pane {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  float: left;
+  margin: 0px 25px 0px 0px;
+  height: 100vh;
+  width: 25%;
+  background-color: #eeeedd;
+}
+
+.center-pane {
+  width:75%;
+}
+
+.activities-list {
+  display: flex;
+  flex-direction: column;
+  padding: 50px 5px 0px 0px;
+}
+
+.candidate-details {
+  margin: 50px 0px 0px 0px;
+  text-align: center;
+}
+
+.seperator {
+  border: 0.5px lightgrey solid;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+
+.candidate-score {
+  font-size: 90px;
+}
+
+.team-average-score {
+  font-size: 70px;
+
+}
+
+.activity-details {
+  margin-bottom: 15px;
+}
+
+.activity-details span {
+  font-size: 11px;
+  color: #999999;
+  margin: 0px -3px 0px 0p;
+}
+
+.averages {
+  display: flex;
+  padding-top: 40px;
+}
+
+.average-container {
+  display: flex;
+  flex-direction: row;
+  margin-left:50px;
+}
+
+.numberCircle {
+  border-radius: 50%;
+  width: 120px;
+  font-size: 32px;
+  border: 2px solid green;
+}
+.numberCircle span {
+  text-align: center;
+  line-height: 120px;
+  display: block;
+}

@@ -1,0 +1,22 @@
+.candidates {
+  float:left;
+  margin: 35px 15px 0px 20px;
+  text-align: center;
+}
+
+.candidate-container {
+  margin-bottom: 15px;
+}
+
+.candidate-link {
+  cursor: pointer;
+}
+
+.singing-man-icon {
+  width: 100px;
+  height:100px;
+}
+
+.candidates-container {
+    margin-top: 1%
+}
